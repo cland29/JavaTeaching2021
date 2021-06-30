@@ -3,6 +3,8 @@
 ## Author
 Created by Carl Lee Landskron
 
+https://classroom.github.com/a/7FGd2y5E
+
 ## Scenario
 Jacky wants to be able to save a record of the number of alligators he has at any given time. He uses a variable of String type to save the name, a int the save the quantity, and a double to record their price, and boolean to record if they have lasers or not.
 
@@ -28,7 +30,8 @@ Create a program that:
 
 ### 2.4
 The alligator market is crazy! Crazy low low prices!
-Print out the value of your alligators. Then set the value to 100 dollars less. Then print it out. Then 100 less. Then print. Keep going until you are literally giving people money to take your alligators.
+Print out the value of your alligators. Then set the value to 100 dollars less. Then print it out. Then 100 less. Then print. Keep going until you are literally giving people money to take your alligators. 
+Note to educators: Don't use loops. I know, crazy right? Like these prices!
 
 
 
